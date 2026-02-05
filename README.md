@@ -12,7 +12,7 @@ Evaluar el desempeño de cada tienda a partir de:
 - Costos de envío
 
 ## Herramientas utilizadas
-- Python
+- python
 - Pandas
 - Matplotlib
 - Google Colab
